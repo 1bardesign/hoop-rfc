@@ -2,6 +2,10 @@
 
 This is an open request for comments for a draft software license, tentatively titled HOOP.
 
+[See the license template here.](license.md)
+
+Feedback via issues and PRs, or direct on twitter, discord, or via email are all welcome.
+
 # Problems with existing solutions
 
 - A copyleft license often stifles use within the populations that would benefit from free software most, and can often be legally dodged anyway to avoid contributing back to the commons (see the hoops that AGPL etc have had to jump through).
