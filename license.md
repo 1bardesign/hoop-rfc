@@ -4,7 +4,7 @@ Copyright $AUTHOR <$EMAIL> $YEAR.
 
 Software provided as-is; no warranty.
 
-This is an agreement between you (either as a personal individual or as a corporation, organization, or other entity on behalf of which you are permitted to accept such agreements) and the Maintainers (the individuals and/or organizations listed above after "Copyright"). Unless you have a separate agreement with the Maintainers granting additional use, you may only use, modify, share, or otherwise take advantage of the software in the ways described below.
+This is an agreement between you (either as a personal individual or as a corporation, organization, or other entity on behalf of which you are permitted to accept such agreements) and the Maintainers (which refers only to the individuals and/or organizations named above after "Copyright"). Unless you have a separate agreement with the Maintainers granting additional use, you may only use, modify, share, or otherwise take advantage of the software in the ways described below.
 
 Available without charge for the following purposes:
 
@@ -26,7 +26,7 @@ With the following conditions:
 - Free use under this license may continue indefinitely for released projects that remain based on the same version of the software, including for commercial projects where the related entities turnover or income begins to exceed the small entity threshold. A commercial license should be sought before updating the software.
 - Free use within other projects does not confer the right to issue a commercial license.
 
-For any other use, a commercial license is required, and should be separately negotiated with the Maintainers listed above via email.
+For any other use, a commercial license is required, and should be separately negotiated with the Maintainers via email.
 
 The following expectations generally apply to commercial licenses for HOOP software:
 
