@@ -4,7 +4,7 @@ Copyright $AUTHOR <$EMAIL> $YEAR.
 
 Software provided as-is; no warranty.
 
-This is an agreement between you (either as a personal individual or as a corporation, organization, or other entity on behalf of which you are permitted to accept such agreements) and the Maintainers (which refers only to the individuals and/or organizations named above after "Copyright"). Unless you have a separate agreement with the Maintainers granting additional use, you may only use, modify, share, or otherwise take advantage of the software in the ways described below.
+This licence constitutes an agreement between the user of this software (you) and the Maintainers (the parties named in the copyright notice above). Unless you have a separate agreement with the Maintainers granting additional use, you may only use, modify, share, or otherwise take advantage of the software as described below.
 
 Available without charge for the following purposes:
 
