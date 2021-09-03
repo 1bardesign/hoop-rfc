@@ -8,10 +8,9 @@ This licence constitutes an agreement between the user of this software (you) an
 
 Available without charge for the following purposes:
 
-- Non-commercial use; where there is either no further distribution, or there is public distribution with no financial benefit.
-- Educational use; within an educational institution such as a school or university, or the home, for the purposes of teaching or learning.
-- Contribution to the software.
-- Contribution to freely available software to interoperate with the software.
+- Non-commercial use; where there is no shared access or distribution, or no financial benefit derived from such activities.
+- Educational use; within an educational institution such as a school or university, or the home, for the primary purpose of teaching or learning.
+- Contribution to the software, or to freely available software that interoperates with the software.
 - Commercial use within or for the benefit exclusively of small entities. Small entities are considered any company or person with turnover or personal income not exceeding $200,000 AUD per year, before any relevant taxes are applied.
 - Evaluation for commercial use, limited to a single 30 day period.
 
@@ -24,7 +23,7 @@ With the following conditions:
 - The type of use claimed must be indicated in plain english language, directly before or after the included license text, with any distribution of the software.
 	- "$SOFTWARE is used freely as part of (your software) for non-commercial use."
 - Free use under this license may continue indefinitely for released projects that remain based on the same version of the software, including for commercial projects where the related entities turnover or income begins to exceed the small entity threshold. A commercial license should be sought before updating the software.
-- Free use within other projects does not confer the right to issue a commercial license.
+- Free use within a project does not confer the right to issue a commercial license.
 
 For any other use, a commercial license is required, and should be separately negotiated with the Maintainers via email.
 
